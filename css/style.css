@@ -31,7 +31,7 @@ body {
     color: white;
     overflow: hidden;
     border-radius: 5px;
-    font: normal 2rem serif;
+    font-size: 20pt;
 }
 
 #display{
@@ -47,7 +47,7 @@ body {
     border-bottom-left-radius: 0;
     font: normal 1.5rem serif;
     color: #B2B1B9;
-    letter-spacing: 10px;
+    letter-spacing: 7px;
     
 }
 
